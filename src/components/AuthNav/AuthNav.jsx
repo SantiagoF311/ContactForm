@@ -1,4 +1,4 @@
-import { StyledLink } from '../../../../ProyectoFinal/src/components/styles/StyledLink';
+import { StyledLink } from '../../../../jaja/src/components/styles/StyledLink';
 
 export const AuthNav = () => {
   return (
